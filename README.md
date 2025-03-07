@@ -9,3 +9,9 @@ This project contains two datasets: `tad66k` and `ArtEdu`.
    **Password:** `w43j`  
 
 - **ArtEdu**: A specialized dataset designed for art education applications.
+
+# Recommendation
+Item Response Theory integrated in deep neural networks.
+- Improved one model: https://aclanthology.org/2022.coling-1.257.pdf (Github: https://github.com/takumi0shibata/Analytic-AES-with-IRT)
+- some models Integrated: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10061235
+
